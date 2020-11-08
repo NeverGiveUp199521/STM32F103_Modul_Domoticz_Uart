@@ -1,0 +1,6 @@
+ESP8266_WiFi_Domoticz.c:16:6:Reset_ESP	8	static
+ESP8266_WiFi_Domoticz.c:23:6:WiFi_Conection	8	static
+ESP8266_WiFi_Domoticz.c:73:5:Pobierz_Status_Z_Domoticza	16	static
+ESP8266_WiFi_Domoticz.c:90:6:Zmiana_Wyjscia_Z_Domoticza	8	static
+ESP8266_WiFi_Domoticz.c:141:6:Wyslij_Dane_Do_Domoticza	24	static
+ESP8266_WiFi_Domoticz.c:146:6:Domoticz_Conection	8	static
